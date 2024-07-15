@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/php-dist
+module github.com/initializ-buildpacks/php-dist
 
 go 1.21
 

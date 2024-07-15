@@ -9,7 +9,7 @@ import (
 	"github.com/paketo-buildpacks/packit/v2/postal"
 	"github.com/paketo-buildpacks/packit/v2/sbom"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phpdist "github.com/paketo-buildpacks/php-dist"
+	phpdist "github.com/initializ-buildpacks/php-dist"
 )
 
 type Generator struct{}

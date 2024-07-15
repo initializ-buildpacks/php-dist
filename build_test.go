@@ -17,8 +17,8 @@ import (
 	"github.com/paketo-buildpacks/packit/v2/paketosbom"
 	"github.com/paketo-buildpacks/packit/v2/postal"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phpdist "github.com/paketo-buildpacks/php-dist"
-	"github.com/paketo-buildpacks/php-dist/fakes"
+	phpdist "github.com/initializ-buildpacks/php-dist"
+	"github.com/initializ-buildpacks/php-dist/fakes"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

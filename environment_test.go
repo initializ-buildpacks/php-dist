@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/paketo-buildpacks/packit/v2"
-	phpdist "github.com/paketo-buildpacks/php-dist"
+	phpdist "github.com/initializ-buildpacks/php-dist"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	phpdist "github.com/paketo-buildpacks/php-dist"
+	phpdist "github.com/initializ-buildpacks/php-dist"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

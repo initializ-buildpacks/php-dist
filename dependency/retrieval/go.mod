@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/php-dist/retrieval
+module github.com/initializ-buildpacks/php-dist/retrieval
 
 go 1.22
 

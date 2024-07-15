@@ -3,7 +3,7 @@ package fakes
 import (
 	"sync"
 
-	phpdist "github.com/paketo-buildpacks/php-dist"
+	phpdist "github.com/initializ-buildpacks/php-dist"
 )
 
 type FileManager struct {

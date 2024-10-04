@@ -16,7 +16,7 @@ api = "0.7"
   include-files = ["bin/build", "bin/detect", "bin/run", "buildpack.toml", "config/default.ini", "config/buildpack.ini"]
   pre-package = "./scripts/build.sh"
   [metadata.default-versions]
-    php = "8.1.*"
+    php = "8.3.*"
 
   [[metadata.dependencies]]
     checksum = "sha256:361e06a8d724f6e0b68f23dcb59cf69a88b013e7677b93a604b1ec552bffa190"

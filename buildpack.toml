@@ -64,7 +64,7 @@ api = "0.7"
 
 [[stacks]]
   id = "*"
-  mixins = ["libargon2-0", "libcurl4", "libedit2", "libgd3", "libmagickwand-6.q16-3", "libonig4", "libxml2", "libyaml-0-2"]
+  mixins = ["argon2", "libcurl4", "libedit", "libgd", "imagemagick", "oniguruma", "libxml2", "yaml"]
 
 [[stacks]]
   id = "*"
